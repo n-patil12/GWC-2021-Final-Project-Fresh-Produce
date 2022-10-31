@@ -1,0 +1,55 @@
+h1{
+        
+  font-family: 'Brush Script MT', cursive;
+  font-size: 60px;
+  color: white;
+  text-align: center;
+  background-color: #e6410f;
+  text-decoration: black;
+  height: auto;
+  width: auto;
+
+}
+
+.container {
+  display: grid;
+  grid-gap: 2px;
+  grid-template-columns: auto auto auto;
+  margin: 5px;
+  color: aquamarine;
+  
+}
+
+
+div{
+  padding-bottom: 10px;
+  padding-right: 20px;
+}
+
+h3{
+  font-family: 'Indie Flower', cursive;
+  color:blueviolet;
+  text-align: center;
+}
+
+button{
+  background-color:#17f08baf;
+  color: rgb(0, 0, 0);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: rgb(0, 0, 0);
+  display: inline-block;
+  font-size: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  height: 100px;
+  width: 445px;
+ 
+}
+
+img{
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
